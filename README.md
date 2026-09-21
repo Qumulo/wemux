@@ -52,7 +52,7 @@ and notifications when users attach/detach.
 
   Git clone this repo.
 
-    git clone git://github.com/zolrath/wemux.git /usr/local/share/wemux
+    git clone https://github.com/zolrath/wemux.git /usr/local/share/wemux
 
   Symlink the `wemux` file into your $PATH via `/usr/local/bin/`,
   being sure to use the full path.

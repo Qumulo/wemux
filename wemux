@@ -372,7 +372,7 @@ change_server() {
 # Display version of wemux installed on system. Show URL for wemux.
 display_version() {
   echo "wemux $version"
-  echo "To check for a newer version visit: http://www.github.com/zolrath/wemux"
+  echo "To check for a newer version visit: https://github.com/zolrath/wemux"
 }
 
 # Host mode, used when user is listed in the host_list array in /usr/local/etc/wemux.conf
